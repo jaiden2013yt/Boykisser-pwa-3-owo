@@ -1,9 +1,9 @@
 {
-  "name": "Texedit",
-  "short_name": "Texedit",
+  "name": "boykisser",
+  "short_name": "boykissr",
   "scope": "./",
   "icons": [
-    {
+    
       "src": "IMG_3230.png",
       "type": "image/png",
       "sizes": "512x512"
