@@ -1,0 +1,21 @@
+{
+  "name": "Texedit",
+  "short_name": "Texedit",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "icon192px.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "icon192px.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
